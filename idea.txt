@@ -1,0 +1,50 @@
+####
+API'S
+
+#---Daily Verse (Eng : Tel & Bible referencing the same)  : English & telugu images grouping and naming may be by ref(sometimes reference have diff +-1) and adding bible to the API to fetch (later users can change the bible versions of the reference KJV,NIV ...)
+    bibes data as xml github sajeevavahini, both Telugu BSI and Eng NIV version verses
+    
+#---Daily portion based on Bible on a Year & Quiz related to that ...
+
+#Bible book & chapter wise Quiz...
+
+#Daily Audio : Streams in the Desserts 
+
+#Daily Article : Streams in the Desserts  & faith is victory 
+
+#Song Book : Aradhana Geethamulu , Hyms & chouruses & Additional lyrics  (like button & later collect infomation about the songwriters & link to it)
+
+#Sermon Article : Wed & friday & sunday
+                        1.Title of the message & date & who & place 
+                        2.references 
+                        3.points to remember...
+                        4.Like & comments & share later
+                        5.Once sermon Audio is exist and then flag and highlight for take notes..
+
+#Sermon Audio : 
+                - audio plays , forward and backward 10 sec , like ,flag ,title as Image
+                - Once the article is there it should show Captions 
+                - other articles are embed youtube links (non coyable links)
+
+#Prayer Requests : Name, Phnno(optional), Comments
+
+###Quiz related to that ...
+
+#Other channels links later 
+
+#Users will have read access and they can only like & comment(Comments to be checked before public)
+
+#Admin will able to manage 
+        -the articles and 
+        -audio info and 
+        -song lyrics ( to post anything also one admin need 4-eye principle)
+        -push notification when updated
+        -managing users ( accept or hold or reject )
+
+
+#API - Fast API for request and response 
+
+#Best easy way to manage the articles ( good editor )
+#Images 
+
+
